@@ -28,6 +28,8 @@ pip install pytest-xdist
 pip install pytest-assume
 pip install pytest-html
 
+模版文件放在picker生成的dut文件夹下与UT_xxx同目录
+
 三、MLVP工具（建议使用最新版本）
 
 支持生成功能覆盖率
